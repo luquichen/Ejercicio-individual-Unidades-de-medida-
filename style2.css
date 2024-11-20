@@ -1,0 +1,44 @@
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 36px;
+    color: #333;
+  }
+  
+  /* Estilos del Menú */
+  .menu {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+  }
+  
+  .menu-section {
+    margin-bottom: 30px;
+  }
+  
+  .menu-section h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    font-size: 18px;
+    color: #555;
+    padding: 5px 0;
+  }
+  
+  /* Estilo de Hover en las Listas */
+  ul li:hover {
+    color: #00bcd4;
+    cursor: pointer;
+  }
